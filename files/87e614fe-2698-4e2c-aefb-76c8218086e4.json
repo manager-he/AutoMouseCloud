@@ -1,0 +1,24 @@
+{
+  "id": "87e614fe-2698-4e2c-aefb-76c8218086e4",
+  "name": "测试操作包_AutoMouse",
+  "children": [
+    {
+      "id": "f67dca2f-9bf3-469a-9420-a1f7dd004e9b",
+      "name": "测试操作1",
+      "action_type": "keyboard_type",
+      "parameters": {
+        "text": "Hello World"
+      },
+      "description": "键盘输入文本"
+    }
+  ],
+  "description": "这是一个用于测试云端上传功能的操作包",
+  "is_library_pack": false,
+  "author": "AutoMouse Test",
+  "version": "1.0.0",
+  "created_date": "2026-01-06",
+  "scheduled_time": null,
+  "repeat_count": 1,
+  "repeat_interval": 0.0,
+  "type": "pack"
+}
