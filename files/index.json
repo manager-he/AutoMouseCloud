@@ -1,5 +1,18 @@
 {
   "version": "1.0",
-  "last_update": "2026-01-06T00:00:00Z",
-  "packs": []
+  "last_update": "2026-01-06T17:49:56.455618",
+  "packs": [
+    {
+      "id": "7a9a89d5-cbbd-4b33-9d11-0cb36ea9411d",
+      "name": "测试操作包_AutoMouse",
+      "author": "AutoMouse Test",
+      "version": "1.0.0",
+      "description": "这是一个用于测试云端上传功能的操作包",
+      "created_date": "2026-01-06",
+      "file_url": "https://raw.githubusercontent.com/manager-he/AutoMouseCloud/main/files/7a9a89d5-cbbd-4b33-9d11-0cb36ea9411d.json",
+      "file_sha": "b806942601ca51804b2b7c80069220e11898b0f3",
+      "downloads": 0,
+      "last_modified": "2026-01-06T17:49:56.455618"
+    }
+  ]
 }
